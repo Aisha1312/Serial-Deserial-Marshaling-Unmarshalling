@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <book>
+        <author>Aisha</author>
+        <description>Aisha is a good girl</description>
+        <genre>personality development</genre>
+        <id>1</id>
+        <price>1000.0</price>
+        <publishDate>13-12-1996</publishDate>
+        <title>5 steps for success</title>
+    </book>
+    <book>
+        <author>Roohi</author>
+        <description>Roohi is a good girl</description>
+        <genre>personality development</genre>
+        <id>1</id>
+        <price>1000.0</price>
+        <publishDate>13-10-1995</publishDate>
+        <title>5 steps for success</title>
+    </book>
+</catalog>
